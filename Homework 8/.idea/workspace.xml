@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="879a3d55-a8dc-47b4-b471-371338b5fec9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/NestJS/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/.idea/prisma.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/my-nest-project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/prisma/migrations/20231130221849_supermarket/migration.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/prisma/migrations/migration_lock.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/prisma/schema.prisma" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/controllers/CustomerController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/controllers/EmployeeController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/controllers/OrderController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/controllers/ProductController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/models/CustomerModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/models/EmployeeModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/models/OrderModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/models/ProductModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/routes/customerRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/routes/employeeRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/routes/orderRoutes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NestJS/src/routes/productRoutes.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2ZOQOKkCl64nzmTTsdSYYcjy6AY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Homework-8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="879a3d55-a8dc-47b4-b471-371338b5fec9" name="Changes" comment="" />
+      <created>1702290612744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702290612744</updated>
+      <workItem from="1702290615344" duration="205000" />
+      <workItem from="1704574094032" duration="309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
